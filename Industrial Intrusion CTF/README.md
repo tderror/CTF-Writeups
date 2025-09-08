@@ -7,7 +7,7 @@ This write-up records my participation, the challenges I solved, and the lessons
 ## 🗂️ Write-up Contents
 | Category  | Challenge |
 |-----------|-----------|
-| Beginner  | [Discord](./Web/Discord.md) |
+| Beginner  | [Discord](./Beginner/Discord.md) |
 | Web       | [](./web/.md) |
 | Web       | [](./web.md) |
 | Web       | [](./web/.md) |
