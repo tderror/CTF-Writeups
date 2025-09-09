@@ -9,6 +9,6 @@ Try checking the slash (`/`) commands supported by the bot to see what's availab
 
 `/secret-function`
 
-![Discord](./Images/Discord.png)
+![Discord](Images/Discord.png)
 
 Bot returned the flag: THM{D15C0RD_57A5H_C0MM4ND5}
