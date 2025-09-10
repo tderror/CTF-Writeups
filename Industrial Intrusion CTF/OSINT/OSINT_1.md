@@ -4,4 +4,4 @@
 
 First, let's start by analyzing the domain virelia-water.it.com
 
-![OSINT_1_1](./OSINT/Images/OSINT_1_1.png)
+![OSINT_1_1](./Images/OSINT_1_1.png)
