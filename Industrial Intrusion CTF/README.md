@@ -8,8 +8,8 @@ This write-up records my participation, the challenges I solved, and the lessons
 | Category  | Challenge |
 |-----------|-----------|
 | Beginner  | [Discord](./Beginner/Discord.md) |
-| Web       | [](./web/.md) |
-| Web       | [](./web.md) |
+| OSINT     | [](./OSINT/OSINT1.md) |
+| OSINT     | [](./OSINT/OSINT2.md) |
 | Web       | [](./web/.md) |
 
 
