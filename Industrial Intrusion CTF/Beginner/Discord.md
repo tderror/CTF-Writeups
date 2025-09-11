@@ -7,8 +7,12 @@ For the challenge, please use #ctf-discord-challenge in the Discord server
 
 Try checking the slash (`/`) commands supported by the bot to see what's available, instead of blindly spamming like other members.
 
-`/secret-function`
+
 
 ![Discord](./Images/Discord.png)
+
+`/secret-function`
+
+![Discord_2](./Images/Discord_2.png)
 
 Bot returned the flag: THM{D15C0RD_57A5H_C0MM4ND5}
