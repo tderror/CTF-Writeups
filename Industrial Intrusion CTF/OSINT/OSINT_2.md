@@ -22,7 +22,7 @@ The GitHub user's profile was reviewed, but it did not provide any information r
 
 Finding nothing useful in his profile, I moved on to check out his followers to see if they might reveal anything.
 
-![OSINT_2_5](./Images/OSINT_2_4.png)
+![OSINT_2_5](./Images/OSINT_2_5.png)
 
 One of them, https://github.com/solstice-tech1
 , was found to link to another repository here: https://github.com/solstice-tech1/ot-auth-mirror/blob/main/index.html
